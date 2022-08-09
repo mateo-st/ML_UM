@@ -4,5 +4,5 @@ Universidad de Montevideo
 Facultad de Ingeniería 
 Prof. García Parra
 
-Creado por: Mateo Stipanicic
+Creado por Mateo Stipanicic
 2022
