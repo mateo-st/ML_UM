@@ -1,8 +1,8 @@
-En este repositorio se pretende documentar mi desarrollo en el curso de Aprendizaje Automático.
+En este repositorio se pretende documentar las distintas tareas desarrolladas en el curso de Aprendizaje Automático.
 
 Universidad de Montevideo
 Facultad de Ingeniería 
-Prof. García Parra
+Prof. Sebastián García Parra
 
-Creado por Mateo Stipanicic
+Creado por Mateo Stipanicic y Ariel Mordetzki
 2022
