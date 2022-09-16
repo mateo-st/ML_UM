@@ -1,8 +1,8 @@
-En este repositorio se pretende documentar las distintas tareas desarrolladas en el curso de Aprendizaje Automático.
+This repository is intended to keep record of all pertinent developments and deliverables in the Machine Learning course.
 
 Universidad de Montevideo
-Facultad de Ingeniería 
+Engineering Faculty
 Prof. Sebastián García Parra
 
-Creado por Mateo Stipanicic y Ariel Mordetzki
+Created by Mateo Stipaničić and Ariel Mordetzki
 2022
